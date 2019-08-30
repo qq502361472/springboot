@@ -1,4 +1,4 @@
-package com.hjrpc.dao;
+package com.hjrpc.dao.users;
 
 import com.hjrpc.model.User;
 import org.apache.ibatis.annotations.Param;

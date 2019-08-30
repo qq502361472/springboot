@@ -39,6 +39,7 @@ public class UserController {
     @RequestMapping("/hello")
     public String hello(String str){
         logger.info("我是一个loginfo");
-        return "hello "+str+"!";
+
+        return "hello13212"+str+"!";
     }
 }
